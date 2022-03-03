@@ -1,8 +1,8 @@
-🌱 I’m currently learning Python
-😄 Pronouns: he/him
-📫 How to reach me: marcoszgobbo@gmail.com
-⚡ Fun fact: Dolphins sleep with one eye open
-🤔 I’m looking for help with system development
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: he/him
+- 📫 How to reach me: marcoszgobbo@gmail.com
+- ⚡ Fun fact: Dolphins sleep with one eye open
+- 🤔 I’m looking for help with system development
 <!--
 **gobboboy/gobboboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
