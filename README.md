@@ -1,4 +1,4 @@
-## HI, I'm Marcos Gobbo
+## Hi, I'm Marcos Gobbo
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: he/him
 - 📫 How to reach me: marcoszgobbo@gmail.com
