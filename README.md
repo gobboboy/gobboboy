@@ -1,5 +1,5 @@
 ## Hi, I'm Marcos Gobbo
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and Python
 - 😄 Pronouns: he/him
 - 📫 How to reach me: marcoszgobbo@gmail.com
 - ⚡ Fun fact: Dolphins sleep with one eye open
